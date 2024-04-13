@@ -22,4 +22,5 @@
 
 ## используемые материалы
 [синтаксис intertools](https://all-python.ru/osnovy/itertools.html)
+
 [синтаксис питона](https://cs.mipt.ru/algo/lessons/lab2.html)
