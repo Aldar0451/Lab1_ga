@@ -1,6 +1,6 @@
 import itertools
 alphabet = "ВИШНЯ"
-ar = itertools.product(alphabet, repeat=6) #Размещение с повторением
+ar = itertools.product(alphabet, repeat=6)
 arl = []
 for i in ar:
     arl.append(list(i))
